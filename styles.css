@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#container {
+    display: grid;
+    width: 960px;
+    margin: 0 auto;
+    gap: 1px;
+}
+
+.square {
+    background-color: white;
+}
